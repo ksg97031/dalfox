@@ -1,4 +1,4 @@
-module github.com/hahwul/dalfox/v2
+module github.com/ksg97031/dalfox/v2
 
 go 1.16
 
